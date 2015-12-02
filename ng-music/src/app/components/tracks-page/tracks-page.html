@@ -1,11 +1,11 @@
 <div class="header-container">
   <div class="col-1">
-    <img src="/images/ramones-ramones.jpg">
+    <img [src]="album.image">
   </div>
   <div class="col-2">
     <div class="playlist">TRACKS</div>
-    <div class="playlist-title">Ramones</div>
-    <div class="playlist-desc">Ramones</div>
+    <div class="playlist-title">{{album.artist}}</div>
+    <div class="playlist-desc">{{album.name}}</div>
     <div class="action-buttons">
       <button class="play-btn btn btn-small">PLAY</button>
       <button class="follow-btn btn btn-small">FOLLOW</button>

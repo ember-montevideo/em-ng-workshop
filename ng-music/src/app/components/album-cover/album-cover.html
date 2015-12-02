@@ -1,6 +1,6 @@
 <div>
   <div class="col-sm-3 col-md-3 col-lg-2 media default image-grid genre">
-    <a [router-link]="['Tracks', { album_id: 1000 }]">
+    <a [router-link]="['Tracks', { album_id: album.id }]">
       <img [alt]="album.name" class="album" [src]="album.image">
     </a>
   </div>
