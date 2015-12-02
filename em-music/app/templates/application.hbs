@@ -2,7 +2,11 @@
   <a id="logo" class="logo"></a>
   <ul id="nav-items">
     <li><a class="spoticon-search-32 standard-menu-item"><span>Search</span></a></li>
-    <li><a class="spoticon-browse-32 standard-menu-item"><span>Albums</span></a></li>
+    <li>
+      {{#link-to "albums" class="spoticon-browse-32 standard-menu-item"}}
+        <span>Albums</span>
+      {{/link-to}}
+    </li>
     <li><a class="spoticon-radio-32 standard-menu-item"><span>Radio</span></a></li>
   </ul>
 </div>
