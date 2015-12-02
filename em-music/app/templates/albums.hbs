@@ -15,16 +15,4 @@
     Albums
   </div>
 </div>
-<div id="genresAndMoods">
-  <div class="row fivecolumns">
-    {{#each model as |album|}}
-      <div>
-        <div class="col-sm-3 col-md-3 col-lg-2 media default image-grid genre">
-          {{#link-to "album" album.id}}
-            <img alt="Ramones" class="album" src={{album.image}}>
-          {{/link-to}}
-        </div>
-      </div>
-    {{/each}}
-  </div>
-</div>
+{{album-grid albums=model id="genresAndMoods"}}
