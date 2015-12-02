@@ -30,7 +30,7 @@
     <div class="col-xs-1 col-md-1 col-time"></div>
   </div>
   {{#each model.tracks as |track|}}
-    <div class="row playlist-field">
+    <div class="row playlist-field" {{action "trackClicked" track}}>
       <div class="col-xs-4 col-md-4 col-md-offset-1">{{track.title}}</div>
       <div class="col-xs-3 col-md-3">{{model.artist}}</div>
       <div class="col-xs-3 col-md-3">{{model.name}}</div>
