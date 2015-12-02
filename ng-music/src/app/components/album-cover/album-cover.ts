@@ -7,16 +7,13 @@ import {Component} from 'angular2/angular2';
   styleUrls: ['app/components/album-cover/album-cover.css'],
   providers: [],
   directives: [],
-  pipes: []
+  pipes: [],
+  properties: ['album']
 })
 export class AlbumCover {
   album: any;
 
   constructor() {
-    this.album = {
-      image: "/images/ramones-ramones.jpg",
-      name: "Ramones"
-    };
   }
 
   onClick() {
