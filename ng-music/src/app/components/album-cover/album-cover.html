@@ -1,5 +1,7 @@
 <div>
   <div class="col-sm-3 col-md-3 col-lg-2 media default image-grid genre">
-    <img [alt]="album.name" class="album" [src]="album.image" (click)="onClick()">
+    <a [router-link]="['Tracks', { album_id: 1000 }]">
+      <img [alt]="album.name" class="album" [src]="album.image">
+    </a>
   </div>
 </div>
