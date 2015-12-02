@@ -1,0 +1,13 @@
+{
+  "album": {
+    "id": 1003,
+    "artist": "Ramones",
+    "name": "Road to Ruin",
+    "image": "/images/ramones-road-to-ruin.jpg",
+
+    "links": {
+      "tracks": "/api/albums/1003/tracks.json"
+    }
+  }
+}
+

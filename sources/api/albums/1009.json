@@ -1,0 +1,13 @@
+{
+  "album": {
+    "id": 1009,
+    "artist": "Ramones",
+    "name": "Halfway to Sanity",
+    "image": "/images/ramones-halfway-to-sanity.jpg",
+
+    "links": {
+      "tracks": "/api/albums/1009/tracks.json"
+    }
+  }
+}
+

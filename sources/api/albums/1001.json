@@ -1,0 +1,13 @@
+{
+  "album": {
+    "id": 1001,
+    "artist": "Ramones",
+    "name": "Leave Home",
+    "image": "/images/ramones-leave-home.jpg",
+
+    "links": {
+      "tracks": "/api/albums/1001/tracks.json"
+    }
+  }
+}
+

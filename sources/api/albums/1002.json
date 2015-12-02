@@ -1,0 +1,13 @@
+{
+  "album": {
+    "id": 1002,
+    "artist": "Ramones",
+    "name": "Rocket to Russia",
+    "image": "/images/ramones-rocket-to-russia.jpg",
+
+    "links": {
+      "tracks": "/api/albums/1002/tracks.json"
+    }
+  }
+}
+

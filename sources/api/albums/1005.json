@@ -1,0 +1,13 @@
+{
+  "album": {
+    "id": 1005,
+    "artist": "Ramones",
+    "name": "Pleasant Dreams",
+    "image": "/images/ramones-pleasant-dreams.jpg",
+
+    "links": {
+      "tracks": "/api/albums/1005/tracks.json"
+    }
+  }
+}
+

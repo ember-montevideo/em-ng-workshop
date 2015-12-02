@@ -1,0 +1,13 @@
+{
+  "album": {
+    "id": 1004,
+    "artist": "Ramones",
+    "name": "End of the Century",
+    "image": "/images/ramones-end-of-the-century.jpg",
+
+    "links": {
+      "tracks": "/api/albums/1004/tracks.json"
+    }
+  }
+}
+

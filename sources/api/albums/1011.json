@@ -1,0 +1,13 @@
+{
+  "album": {
+    "id": 1011,
+    "artist": "Ramones",
+    "name": "Mondo Bizarro",
+    "image": "/images/ramones-mondo-bizarro.jpg",
+
+    "links": {
+      "tracks": "/api/albums/1011/tracks.json"
+    }
+  }
+}
+

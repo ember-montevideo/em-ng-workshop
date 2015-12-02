@@ -1,0 +1,13 @@
+{
+  "album": {
+    "id": 1010,
+    "artist": "Ramones",
+    "name": "Brain Drain",
+    "image": "/images/ramones-brain-drain.jpg",
+
+    "links": {
+      "tracks": "/api/albums/1010/tracks.json"
+    }
+  }
+}
+

@@ -1,0 +1,13 @@
+{
+  "album": {
+    "id": 1006,
+    "artist": "Ramones",
+    "name": "Subterranean Jungle",
+    "image": "/images/ramones-subterranean-jungle.jpg",
+
+    "links": {
+      "tracks": "/api/albums/1006/tracks.json"
+    }
+  }
+}
+

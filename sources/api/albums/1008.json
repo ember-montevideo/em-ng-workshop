@@ -1,0 +1,13 @@
+{
+  "album": {
+    "id": 1008,
+    "artist": "Ramones",
+    "name": "Animal Boy",
+    "image": "/images/ramones-animal-boy.jpg",
+
+    "links": {
+      "tracks": "/api/albums/1008/tracks.json"
+    }
+  }
+}
+

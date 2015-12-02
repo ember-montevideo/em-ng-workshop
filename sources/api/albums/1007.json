@@ -1,0 +1,13 @@
+{
+  "album": {
+    "id": 1007,
+    "artist": "Ramones",
+    "name": "Too Tough to Die",
+    "image": "/images/ramones-too-tough-to-die.jpg",
+
+    "links": {
+      "tracks": "/api/albums/1007/tracks.json"
+    }
+  }
+}
+

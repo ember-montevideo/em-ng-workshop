@@ -1,0 +1,13 @@
+{
+  "album": {
+    "id": 1013,
+    "artist": "Ramones",
+    "name": "Adios Amigos",
+    "image": "/images/ramones-adios-amigos.jpg",
+
+    "links": {
+      "tracks": "/api/albums/1013/tracks.json"
+    }
+  }
+}
+

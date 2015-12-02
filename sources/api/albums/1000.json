@@ -1,0 +1,13 @@
+{
+  "album": {
+    "id": 1000,
+    "artist": "Ramones",
+    "name": "Ramones",
+    "image": "/images/ramones-ramones.jpg",
+
+    "links": {
+      "tracks": "/api/albums/1000/tracks.json"
+    }
+  }
+}
+

@@ -1,0 +1,13 @@
+{
+  "album": {
+    "id": 1012,
+    "artist": "Ramones",
+    "name": "Acid Eaters",
+    "image": "/images/ramones-acid-eaters.jpg",
+
+    "links": {
+      "tracks": "/api/albums/1012/tracks.json"
+    }
+  }
+}
+

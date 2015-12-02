@@ -1,0 +1,130 @@
+{
+  "albums": [
+    {
+      "id": 1000,
+      "artist": "Ramones",
+      "name": "Ramones",
+      "image": "/images/ramones-ramones.jpg",
+      "links": {
+        "tracks": "/api/albums/1000/tracks.json"
+      }
+    },
+    {
+      "id": 1001,
+      "artist": "Ramones",
+      "name": "Leave Home",
+      "image": "/images/ramones-leave-home.jpg",
+      "links": {
+        "tracks": "/api/albums/1001/tracks.json"
+      }
+    },
+    {
+      "id": 1002,
+      "artist": "Ramones",
+      "name": "Rocket to Russia",
+      "image": "/images/ramones-rocket-to-russia.jpg",
+      "links": {
+        "tracks": "/api/albums/1002/tracks.json"
+      }
+    },
+    {
+      "id": 1003,
+      "artist": "Ramones",
+      "name": "Road to Ruin",
+      "image": "/images/ramones-road-to-ruin.jpg",
+      "links": {
+        "tracks": "/api/albums/1003/tracks.json"
+      }
+    },
+    {
+      "id": 1004,
+      "artist": "Ramones",
+      "name": "End of the Century",
+      "image": "/images/ramones-end-of-the-century.jpg",
+      "links": {
+        "tracks": "/api/albums/1004/tracks.json"
+      }
+    },
+    {
+      "id": 1005,
+      "artist": "Ramones",
+      "name": "Pleasant Dreams",
+      "image": "/images/ramones-pleasant-dreams.jpg",
+      "links": {
+        "tracks": "/api/albums/1005/tracks.json"
+      }
+    },
+    {
+      "id": 1006,
+      "artist": "Ramones",
+      "name": "Subterranean Jungle",
+      "image": "/images/ramones-subterranean-jungle.jpg",
+      "links": {
+        "tracks": "/api/albums/1006/tracks.json"
+      }
+    },
+    {
+      "id": 1007,
+      "artist": "Ramones",
+      "name": "Too Tough to Die",
+      "image": "/images/ramones-too-tough-to-die.jpg",
+      "links": {
+        "tracks": "/api/albums/1007/tracks.json"
+      }
+    },
+    {
+      "id": 1008,
+      "artist": "Ramones",
+      "name": "Animal Boy",
+      "image": "/images/ramones-animal-boy.jpg",
+      "links": {
+        "tracks": "/api/albums/1008/tracks.json"
+      }
+    },
+    {
+      "id": 1009,
+      "artist": "Ramones",
+      "name": "Halfway to Sanity",
+      "image": "/images/ramones-halfway-to-sanity.jpg",
+      "links": {
+        "tracks": "/api/albums/1009/tracks.json"
+      }
+    },
+    {
+      "id": 1010,
+      "artist": "Ramones",
+      "name": "Brain Drain",
+      "image": "/images/ramones-brain-drain.jpg",
+      "links": {
+        "tracks": "/api/albums/1010/tracks.json"
+      }
+    },
+    {
+      "id": 1011,
+      "artist": "Ramones",
+      "name": "Mondo Bizarro",
+      "image": "/images/ramones-mondo-bizarro.jpg",
+      "links": {
+        "tracks": "/api/albums/1011/tracks.json"
+      }
+    },
+    {
+      "id": 1012,
+      "artist": "Ramones",
+      "name": "Acid Eaters",
+      "image": "/images/ramones-acid-eaters.jpg",
+      "links": {
+        "tracks": "/api/albums/1012/tracks.json"
+      }
+    },
+    {
+      "id": 1013,
+      "artist": "Ramones",
+      "name": "Adios Amigos",
+      "image": "/images/ramones-adios-amigos.jpg",
+      "links": {
+        "tracks": "/api/albums/1013/tracks.json"
+      }
+    }
+  ]
+}
