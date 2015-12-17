@@ -1,4 +1,4 @@
-import {Component} from 'angular2/angular2';
+import {Component} from 'angular2/core';
 import {RouteParams} from 'angular2/router';
 import {Store} from '../../services/store/store';
 

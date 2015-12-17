@@ -1,4 +1,5 @@
-import {Component, NgFor} from 'angular2/angular2';
+import {Component} from 'angular2/core';
+import {NgFor} from 'angular2/common';
 import {AlbumCover} from '../album-cover/album-cover';
 import {Store} from '../../services/store/store';
 
@@ -16,5 +17,4 @@ export class AlbumsPage {
   constructor(store: Store) {
     store.findAll().subscribe(albums => this.albums = albums);
   }
-
 }
